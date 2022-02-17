@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Syahrin Seth - Full-Stack Web Developer # the website title (if blank, full name will be used instead)
+title: Syahrin Seth # the website title (if blank, full name will be used instead)
 first_name: Syahrin
 middle_name: 
 last_name: Seth
@@ -13,9 +13,9 @@ footer_text: >
 keywords: syahrinseth, syahrin, syahrin-dev, web-developer, fullstack-web-developer, software-developer, mobile-app-developer, software-developer, coding-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🔥 # the emoji used as the favicon
+icon: 🧑🏻‍💻 # the emoji used as the favicon
 url: https://syahrinseth.com # the base hostname & protocol for your site
-baseurl: / # the subpath of your site, e.g. /blog/
+baseurl: > # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -52,7 +52,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: syahrinseth # your GitHub user name
-gitlab_username: syahrinseth # your GitLab user name
+gitlab_username: # your GitLab user name
 twitter_username: syahrinseth # your Twitter handle
 linkedin_username: syahrinseth # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
@@ -80,8 +80,8 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: syahrin-seth  # your blog must have a name for it to show up in the nav bar
-blog_description: A Full-Stack Web Developer who love to solve problems and build great websites and software products.
+blog_name: Syahrin's Blog  # your blog must have a name for it to show up in the nav bar
+blog_description: I'll share any tech-related posts here.
 permalink: blog/:year/:title/
 
 # Pagination
@@ -266,7 +266,7 @@ enable_math:                true   # enables math typesetting (uses MathJax)
 enable_tooltips:            false  # enables automatic tooltip links generated
                                    # for each section titles on pages and posts
 enable_darkmode:            true   # enables switching between light/dark modes
-enable_navbar_social:       true  # enables displaying social links in the
+enable_navbar_social:       false  # enables displaying social links in the
                                    # navbar on the about page
 enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
