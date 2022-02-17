@@ -16,4 +16,4 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, my name is `Syahrin` and I'm a `Full-Stack Web Developer` based in Malaysia. An introvert who loves to solve problems, build websites and products, definitely a computer is involved. I love to take pictures of anything I see interesting and post it on [unsplash](https://unsplash.com/@syahrinseth).
 
-I'm also a creator of [Smart Dhikr App](https://play.google.com/store/apps/details?id=com.syahrinseth.thedhikrapp) where this help Muslims to monitor their dhikr habits.
+I’m also a creator of [Smart Dhikr App](https://play.google.com/store/apps/details?id=com.syahrinseth.thedhikrapp) which help Muslims monitor their dhikr habits.

@@ -32,7 +32,7 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
@@ -89,7 +89,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: syahrin-seth # put your disqus shortname
+disqus_shortname: > # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # -----------------------------------------------------------------------------
