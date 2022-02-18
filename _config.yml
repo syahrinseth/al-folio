@@ -71,8 +71,8 @@ stackoverflow_id: 9160906 #your stackoverflow id
 contact_note: >
   
 
-google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
-google_site_verification:  # your google-site-verification ID (Google Search Console)
+google_analytics: G-N6RZ7E0B12 # your google-analytics ID (format: UA-XXXXXXXXX)
+google_site_verification: VOx53KjtIbwn4d4vIa9vOgjyvey2kEpAWNnvo2V2dqM # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
@@ -89,7 +89,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: > # put your disqus shortname
+disqus_shortname: syahrinseth # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # -----------------------------------------------------------------------------
