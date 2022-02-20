@@ -103,8 +103,14 @@ collections:
     output: true
     permalink: /news/:path/
   projects:
-    output: true
+    output: false
     permalink: /projects/:path/
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+  products:
+    output: true
+    permalink: /products/:path/
 
 news_limit: 5
 
