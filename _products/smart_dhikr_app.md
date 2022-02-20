@@ -17,6 +17,6 @@ category: mobile app
 </div>
 <div class="row">
     <div class="col">
-        <a href="https://play.google.com/store/apps/details?id=com.syahrinseth.thedhikrapp">Google Play</a>
+        <a class="btn btn-secondary" href="https://play.google.com/store/apps/details?id=com.syahrinseth.thedhikrapp">Google Play</a>
     </div>
 </div>

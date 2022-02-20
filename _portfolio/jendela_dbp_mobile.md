@@ -17,6 +17,6 @@ category: mobile app
 </div>
 <div class="row">
     <div class="col">
-        <a href="https://play.google.com/store/apps/details?id=com.jendeladbp.mobilebookreader">Google Play</a>
+        <a class="btn btn-secondary" href="https://play.google.com/store/apps/details?id=com.jendeladbp.mobilebookreader">Google Play</a>
     </div>
 </div>

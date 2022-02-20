@@ -4,7 +4,7 @@ title: portfolio
 permalink: /portfolio/
 description: A collection of cool projects that I've contributed.
 nav: true
-display_categories: [website, web app, mobile app]
+display_categories: [mobile app]
 horizontal: false
 ---
 

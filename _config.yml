@@ -105,12 +105,13 @@ collections:
   projects:
     output: false
     permalink: /projects/:path/
-  portfolio:
-    output: true
-    permalink: /portfolio/:path/
   products:
     output: true
     permalink: /products/:path/
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+  
 
 news_limit: 5
 
