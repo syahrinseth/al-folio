@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: page
 title:  software design and development principles
 date: 2022-03-07 13:00:00
-description: there are multiple kind of software design patterns that developer use to develop a software. one of them is DRY, KISS, YAGNI and more.
-tags: back-end
+description: software design patterns that developer use to develop a software.
+tags: backend
 categories: back-end software
 ---
 
