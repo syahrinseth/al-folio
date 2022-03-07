@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  software design and development principles
+title: software design and development principles
 date: 2022-03-07 13:00:00
 description: software design patterns that developer use to develop a software.
 tags: backend
