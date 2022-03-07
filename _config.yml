@@ -83,6 +83,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 blog_name: Syahrin's Blog  # your blog must have a name for it to show up in the nav bar
 blog_description: I'll share any tech-related posts here.
 permalink: blog/:year/:title/
+future: true
 
 # Pagination
 pagination:
