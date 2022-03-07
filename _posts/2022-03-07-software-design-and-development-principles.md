@@ -15,19 +15,19 @@ categories: back-end software
 
 Have you heard of DRY, KISS, YAGNI before throughout your developer carrier? I am sure you have, but for people who have not heard of this accept KISS, this content is for you. Software design principles are a set of guidelines to help developers make good system designs. While there are many design principles to follow, I will highlight only the most recommended to learn based on my humble personal opinion.
 
-<h3>DRY (Recommended)</h3>
+<h3>DRY</h3>
 
 Don't repeat your self encourage the developer to not repeat software patterns or code. It encourages code usability in a form of methods, functions or subroutines. If it implements the developer can make one change and it affects many related elements and also avoids making changes to unrelated elements.
 
-<h3>YAGNI (Recommended)</h3>
+<h3>YAGNI</h3>
 
 You aren’t going to need it is a software design principle from the Extreme Programming framework that states when developing software functionality should not be added unless it is necessary. Within agile software development, the requirement is always open and extra functionality may end up wasted.
 
-<h3>KISS (Recommended)</h3>
+<h3>KISS</h3>
 
 Keep it simple, stupid. It states to avoiding complexity is the best way to develop software that is easy to maintain, understand and easy to debug. A simple product that does a single thing well is better than a single, product that does many things poorly.
 
-<h3>SOLID (Recommended)</h3>
+<h3>SOLID</h3>
 
 Is a set of principles that applied to Object-oriented design to create, maintain understanding and be flexible while keeping code clean.
 
